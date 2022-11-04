@@ -1,5 +1,5 @@
 # DR-detector: A framework for Combining Transfer Learning with Retinal Lesions Features for Accurate Early Detection of Diabetic Retinopathy
-The following softwares and modules should be installed before using DR-detector
+The following softwares and modules should be installed before using DR-detector:
 
 python 3.6.10
 
